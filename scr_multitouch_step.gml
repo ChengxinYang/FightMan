@@ -1,3 +1,4 @@
+//implement multi-touch function 
 {
     var device;
     var mx;
